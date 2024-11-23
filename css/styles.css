@@ -57,3 +57,7 @@ ul {
 .cookers-section-aspect {
     color: var(--color-brand-dark);
 }
+
+.section-aspect {
+    color: var(--color-brand);
+}
